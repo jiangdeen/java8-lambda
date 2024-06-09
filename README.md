@@ -1,2 +1,3 @@
-# java8-lambda
-记录自己lambd学习心得。
+# java8-lambda 介绍
+
+[第一天: Lambda表达式深度解析(1)](./doc/Lambda表达式深度解析(1).md)
