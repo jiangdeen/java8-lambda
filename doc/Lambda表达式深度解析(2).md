@@ -288,7 +288,7 @@ static class School {
 2. 用Comparator接口的静态方法 comparing()来构造 Comparator对象:
    - `Comparator.comparing(School.Class::getAge)`
 3. `Comparator.comparing(School.Class::getAge)` 静态方法需要传入一个`lambda`表达式`Function`的匿名内部类
-       
+   
 4. 最终 `Comparator.comparing` 使用了`lambda`表达式来构造`Comparator`对象
    	`public static <T, U extends Comparable<? super U>> Comparator<T> comparing(
                Function<? super T, ? extends U> keyExtractor)
