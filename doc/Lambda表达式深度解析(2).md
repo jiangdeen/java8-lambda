@@ -328,5 +328,5 @@ public void testReduce() {
 
 
 
-GitHub地址:  [如果喜欢给个start;](https://github.com/jiangdeen/java8-lambda/tree/main/doc)
+`GitHub`地址:  [如果喜欢给个start;](https://github.com/jiangdeen/java8-lambda)
 

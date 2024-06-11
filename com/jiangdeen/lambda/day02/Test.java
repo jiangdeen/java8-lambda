@@ -1,4 +1,4 @@
-package com.jiangdeen.lambda.twoday;
+package com.jiangdeen.lambda.day02;
 
 import java.util.Arrays;
 import java.util.Comparator;

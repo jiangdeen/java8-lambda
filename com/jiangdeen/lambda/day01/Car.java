@@ -1,4 +1,4 @@
-package com.jiangdeen.lambda.oneday;
+package com.jiangdeen.lambda.day01;
 
 /**
  * 1.接口当中有且仅有一个抽象函数，那么我们就可以把这个这个函数称为接口函数

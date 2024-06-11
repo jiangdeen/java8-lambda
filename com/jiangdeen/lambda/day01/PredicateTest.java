@@ -1,4 +1,4 @@
-package com.jiangdeen.lambda.oneday;
+package com.jiangdeen.lambda.day01;
 
 import java.util.List;
 import java.util.function.Supplier;

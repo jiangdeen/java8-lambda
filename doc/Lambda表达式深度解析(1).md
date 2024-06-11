@@ -159,5 +159,5 @@ filter方法接受的正是一个`Predicate`对象, 那么`x -> x.getAge() > 60`
 
 
 
-文档中用到的代码:  https://github.com/jiangdeen/java8-lambda
+`GitHub`地址:  [如果喜欢给个start;](https://github.com/jiangdeen/java8-lambda)
 
