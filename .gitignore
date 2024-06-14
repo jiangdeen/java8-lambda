@@ -1,6 +1,9 @@
 # Idea
 .idea
+
 *.iml
+
+doc/
 
 # Maven
 target/
